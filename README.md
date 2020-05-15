@@ -1,3 +1,0 @@
-There are various time series algorithms, among them I have choosen three popular algorithms such as ARIMA, LSTM, FB PROPHE for predicting covid cases.  An Automation is created among these time series algorithms ( ARIMA, LSTM, FB PROPHET), i.e the user should upload any time series data set and answer the specific question asked by this automated code in your kernel regarding the data set and within minutes the forecast data will be popped out based upon your inputted number of days to forecast. This automated code will choose the algorithm which is having the least RMSE and predictions will be done by using the that algorithm.
-To get updated data set, you can download from the below link
-https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
